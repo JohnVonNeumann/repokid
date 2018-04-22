@@ -27,8 +27,7 @@ def init_config():
     Try to find config by searching for it in a few paths, load it, and store it in the global CONFIG
 
     Args:
-        account_number (string): The current account number Repokid is being run against. This is needed to provide
-                                 the right config to the blacklist filter.
+        None
 
     Returns:
         None
